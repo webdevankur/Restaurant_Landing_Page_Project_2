@@ -6,7 +6,7 @@ Restaurant_Landing_Page_Project_2
 
 ## Project Link👇
 
-[click here to see the project](https://bright-scone-51826b.netlify.app/)
+[click here to see the project](https://leafy-naiad-653103.netlify.app)
 
 ## Project Thumbnail👇
 
